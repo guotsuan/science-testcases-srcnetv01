@@ -1,4 +1,4 @@
-# science-testcases-srcnetv01
+# Science test cases SRCNet v0.1
 
 This repository supports the development and coordination of **science test cases** for the SRCNet v0.1 test campaigns in the context of **Science Delivery** and is part of the [SP-5206 feature](https://jira.skatelescope.org/browse/SP-5206) (restricted access to collaborators).
 
