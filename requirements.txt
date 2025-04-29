@@ -4,3 +4,6 @@ matplotlib
 astroquery
 scipy
 reproject
+seaborn
+pybdsf
+ps_eor
