@@ -5,5 +5,5 @@ astroquery
 scipy
 reproject
 seaborn
-pybdsf
+bdsf
 ps_eor
