@@ -1,0 +1,10 @@
+name: swf008
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - python
+  - pyuvdata
+  - matplotlib
+  - pip:
+    - git+https://github.com/HydraRadio/hydra-pspec.git
