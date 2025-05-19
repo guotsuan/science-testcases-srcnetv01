@@ -1,4 +1,3 @@
-python 
 numpy
 astropy
 matplotlib
@@ -15,4 +14,4 @@ ipympl
 h5py
 pyfftw
 scikit-learn
-git+https://github.com/HydraRadio/hydra-pspec.git
+git+https://github.com/HydraRadio/hydra-pspec@canfar-no-mpi
