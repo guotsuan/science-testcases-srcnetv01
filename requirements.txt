@@ -1,3 +1,4 @@
+python 
 numpy
 astropy
 matplotlib
@@ -6,3 +7,12 @@ scipy
 reproject
 seaborn
 bdsf
+ps_eor
+pandas
+pillow
+pyuvdata
+ipympl
+h5py
+pyfftw
+scikit-learn
+git+https://github.com/HydraRadio/hydra-pspec.git
