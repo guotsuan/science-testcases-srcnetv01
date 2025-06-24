@@ -35,6 +35,7 @@ Before executing any of these tests, the operator should follow the instructions
 6. Run the notebook tests
 7. Run the CARTA tests
 8. Validate the results and fill in the report
+9. 
 For each node/test performed, the reporting must be done according to [this template](https://confluence.skatelescope.org/display/SRCSC/Test+campaign+v0.1+reporting%3A+template) in a dedicated Confluence page (the link to each node-specific reporting page is given [here](https://confluence.skatelescope.org/pages/viewpage.action?pageId=318775452). The simplified reporting instructions are the following:
 1. Associate Jira tickets
 2. Confirm the general checks 
