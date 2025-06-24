@@ -7,6 +7,8 @@ reproject
 seaborn
 bdsf
 ps_eor
+tables
+healpy
 pandas
 pillow
 pyuvdata
