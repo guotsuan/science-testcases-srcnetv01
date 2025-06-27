@@ -1,2 +1,2 @@
-result_path: "../results"
-data_path: "../datasets"
+result_path: "../../testcases-results"
+data_path: "../../teal"
